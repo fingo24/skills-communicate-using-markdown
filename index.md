@@ -3,3 +3,6 @@
 ###### I's H6
 ####### test?
 This is a test for H1-H6 and no H7
+
+picture test
+![macman](http://img.kuai8.com/attaches/news/image/20140612/96151402562023.jpg)
